@@ -1,4 +1,4 @@
-# pmos-firmware-zuk-z2-plus
+## Firmware-zuk-z2-plus
 
 
 - Firmware : 
